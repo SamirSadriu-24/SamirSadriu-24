@@ -56,7 +56,6 @@ Attualmente costruisco progetti full-stack per consolidare le competenze e conti
 ---
 
 ## 📌 Stato Attuale
-![Working](Studying Java-Spring-Boot)
 ![Learning](https://img.shields.io/badge/Learning-Java%20%7C%20Spring%20Boot-success?style=for-the-badge&logo=gradle&logoColor=white)
 ![Active Developer](https://img.shields.io/badge/Status-ACTIVE%20DEVELOPER-brightgreen?style=for-the-badge)
 
