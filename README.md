@@ -78,19 +78,6 @@ Tutti i miei lavori sono qui:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SamirSadriu-24&show_icons=true&theme=tokyonight" height="160" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SamirSadriu-24&layout=compact&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=SamirSadriu-24&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamirSadriu-24&theme=tokyo-night" />
 </p>
