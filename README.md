@@ -83,7 +83,7 @@ Tutti i miei lavori sono qui:
 
 ---
 
-## 🎯 Obiettivi 2025
+## 🎯 Obiettivi 2026
 - Sviluppare applicazioni complete con Java + Spring Boot  
 - Rafforzare competenze su architetture REST  
 - Migliorare design e performance dei database  
