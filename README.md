@@ -1,100 +1,175 @@
-<!-- HEADER -->
-<h1 align="center">Ciao, sono Samir Carrozzo Sadriu</h1>
-<h3 align="center">Full-Stack Developer in crescita • Firenze, Toscana</h3>
+# sam - appunti
 
-<p align="center">
-  Sviluppatore motivato, curioso e appassionato di tecnologia, Java, Spring Boot e Web Development.
-</p>
+```bash
+sam@appunti:~$ whoami
 
-<p align="center">
-  <a href="https://linkedin.com/in/samirsadriu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:samirsadriuboolean@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+Samir Sadriu
+Full Stack Developer
+Italia
+```
 
----
+Costruisco sistemi, racconto storie,
+debuggo a notte fonda.
 
-## 🎓 Formazione
-### Full Stack Web Developer – Boolean Careers  
-Durante il corso intensivo ho lavorato su:
-
-- **Front-end:** HTML, CSS, JavaScript, React  
-- **Back-end:** Java, Spring Boot, Node.js, Express  
-- **Database:** MySQL  
-- **Workflow reali:** API REST, Git, debugging, testing  
-- **Progetti end-to-end** con architetture scalabili e best practices  
-
-Il bootcamp mi ha fornito un metodo di lavoro solido e orientato alla produzione.
+Dal mondo umanistico al codice, senza scorciatoie.
 
 ---
 
-## 🚀 Chi Sono
-Sono uno sviluppatore in crescita con forte interesse per il backend Java e le architetture REST.  
-Attualmente costruisco progetti full-stack per consolidare le competenze e continuare a migliorare.
+## // appunti notturni
+
+Mi piace costruire applicazioni complete, capire come funzionano davvero le cose e passare da un'idea a qualcosa che puoi usare.
+
+Scrivo codice con lo stesso approccio con cui studiavo letteratura:
+
+- osservare
+- analizzare
+- riscrivere
+- migliorare
+
+Fino a quando tutto non trova il proprio posto.
 
 ---
 
-## 🔥 Tecnologie Principali
+## // stack
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### frontend
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+```txt
+HTML
+CSS
+JavaScript
+React
+Bootstrap
+```
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### backend
 
----
+```txt
+Node.js
+Express
+Java
+Spring Boot
+MySQL
+```
 
-## 📌 Stato Attuale
-![Learning](https://img.shields.io/badge/Learning-Java%20%7C%20Spring%20Boot-success?style=for-the-badge&logo=gradle&logoColor=white)
-![Active Developer](https://img.shields.io/badge/Status-ACTIVE%20DEVELOPER-brightgreen?style=for-the-badge)
+### strumenti
 
----
-
-## 📂 Progetti
-Tutti i miei lavori sono qui:  
-**https://github.com/SamirSadriu-24**
-
----
-
-## 🎧 Hobby
-![Gaming](https://img.shields.io/badge/Gaming-FF4655?style=for-the-badge&logo=steam&logoColor=white)
-![Anime](https://img.shields.io/badge/Anime-FF9E00?style=for-the-badge&logo=crunchyroll&logoColor=white)
-![Music](https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+```txt
+Git
+GitHub
+VS Code
+Postman
+```
 
 ---
 
-## 📊 GitHub Analytics
+## // cose che ho costruito
 
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamirSadriu-24&theme=tokyo-night" />
-</p>
+### 📍 Booroad
 
----
+Simulazione di una piattaforma per la gestione di viaggi e prenotazioni.
 
-## 🎯 Obiettivi 2026
-- Sviluppare applicazioni complete con Java + Spring Boot  
-- Rafforzare competenze su architetture REST  
-- Migliorare design e performance dei database  
-- Lavorare con Docker e containerizzazione  
-- Ottenere una certificazione (Java / Cloud)  
+```txt
+React • CSS • Bootstrap • Radix UI • JavaScript
+```
+
+**Repository**
+→ [Booroad](INSERISCI_LINK)
 
 ---
 
-## 📈 Badge Profilo
-![Views](https://komarev.com/ghpvc/?username=SamirSadriu-24&color=blue&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/SamirSadriu-24?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/SamirSadriu-24?style=for-the-badge)
+### 📰 NeonPress
+
+Giornale digitale con autenticazione, ruoli e gestione contenuti.
+
+```txt
+Java • Spring Boot • Thymeleaf • MySQL • Bootstrap
+```
+
+**Repository**
+→ [NeonPress](INSERISCI_LINK)
 
 ---
+
+### 🎬 Boolflix
+
+Motore di ricerca per film basato su API esterne.
+
+```txt
+HTML • CSS • JavaScript • Node.js • Express
+```
+
+**Repository**
+→ [Boolflix](INSERISCI_LINK)
+
+---
+
+## // percorso
+
+```txt
+prima
+│
+├─ Studi umanistici
+├─ Esperienza all'estero
+│
+poi
+│
+├─ Boolean Careers
+├─ Specializzazione Java Spring
+│
+ora
+│
+└─ 42 Firenze
+   Piscine • C++
+```
+
+---
+
+## // fuori dal codice
+
+🎲 Dungeons & Dragons
+
+🎮 Videogiochi
+
+📚 Fumetti italiani
+
+⚙️ Elettronica e hardware
+
+---
+
+## // github
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samirsadriu-24&show_icons=true&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirsadriu-24&layout=compact&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+## // contatti
+
+Portfolio
+
+https://samirsadriu-24.github.io/Portfolio-SamirCarrozzoSadriu/
+
+LinkedIn
+
+[aggiungi-link]
+
+Mail
+
+[aggiungi-mail]
+
+---
+
+```bash
+sam@appunti:~$ current_status
+
+Studente in prova a 42 Firenze.
+Costruisco progetti.
+Imparo cose nuove.
+Continuo a fare commit.
+```
